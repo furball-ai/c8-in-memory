@@ -1,5 +1,5 @@
 {
-  "name": "c8",
+  "name": "@furball/c8",
   "version": "7.6.0",
   "description": "output coverage reports using Node.js' built in coverage",
   "main": "./index.js",
